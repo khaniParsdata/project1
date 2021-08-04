@@ -1,0 +1,5 @@
+flask==2.0.1
+pymssql==2.2.2
+pyjwt==2.1.0
+flask-jwt-extended
+flask-jwt-extended\[asymmetric_crypto\]
